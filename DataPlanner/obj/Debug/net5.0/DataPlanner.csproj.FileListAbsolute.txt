@@ -1,0 +1,15 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\bin\Debug\net5.0\DataPlanner.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\bin\Debug\net5.0\DataPlanner.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\bin\Debug\net5.0\DataPlanner.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\bin\Debug\net5.0\DataPlanner.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\bin\Debug\net5.0\DataPlanner.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\bin\Debug\net5.0\ref\DataPlanner.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\bin\Debug\net5.0\DataPlanner.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\obj\Debug\net5.0\DataPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\obj\Debug\net5.0\DataPlanner.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\obj\Debug\net5.0\DataPlanner.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\obj\Debug\net5.0\DataPlanner.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\obj\Debug\net5.0\DataPlanner.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\obj\Debug\net5.0\ref\DataPlanner.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\obj\Debug\net5.0\DataPlanner.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\DataPlanner\obj\Debug\net5.0\DataPlanner.genruntimeconfig.cache

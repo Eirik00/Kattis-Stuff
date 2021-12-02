@@ -1,0 +1,16 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\bin\Debug\net5.0\Odd Echo.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\bin\Debug\net5.0\Odd Echo.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\bin\Debug\net5.0\Odd Echo.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\bin\Debug\net5.0\Odd Echo.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\bin\Debug\net5.0\Odd Echo.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\bin\Debug\net5.0\ref\Odd Echo.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\bin\Debug\net5.0\Odd Echo.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\obj\Debug\net5.0\Odd Echo.csproj.AssemblyReference.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\obj\Debug\net5.0\Odd Echo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\obj\Debug\net5.0\Odd Echo.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\obj\Debug\net5.0\Odd Echo.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\obj\Debug\net5.0\Odd Echo.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\obj\Debug\net5.0\Odd Echo.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\obj\Debug\net5.0\ref\Odd Echo.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\obj\Debug\net5.0\Odd Echo.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Odd Echo\obj\Debug\net5.0\Odd Echo.genruntimeconfig.cache

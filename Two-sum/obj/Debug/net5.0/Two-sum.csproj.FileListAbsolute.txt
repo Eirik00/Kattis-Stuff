@@ -1,0 +1,15 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\bin\Debug\net5.0\Two-sum.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\bin\Debug\net5.0\Two-sum.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\bin\Debug\net5.0\Two-sum.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\bin\Debug\net5.0\Two-sum.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\bin\Debug\net5.0\Two-sum.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\bin\Debug\net5.0\ref\Two-sum.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\bin\Debug\net5.0\Two-sum.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\obj\Debug\net5.0\Two-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\obj\Debug\net5.0\Two-sum.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\obj\Debug\net5.0\Two-sum.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\obj\Debug\net5.0\Two-sum.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\obj\Debug\net5.0\Two-sum.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\obj\Debug\net5.0\ref\Two-sum.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\obj\Debug\net5.0\Two-sum.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Two-sum\obj\Debug\net5.0\Two-sum.genruntimeconfig.cache
