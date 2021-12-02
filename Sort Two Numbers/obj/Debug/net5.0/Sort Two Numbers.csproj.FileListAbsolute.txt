@@ -1,0 +1,15 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\bin\Debug\net5.0\Sort Two Numbers.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\bin\Debug\net5.0\Sort Two Numbers.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\bin\Debug\net5.0\Sort Two Numbers.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\bin\Debug\net5.0\Sort Two Numbers.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\bin\Debug\net5.0\Sort Two Numbers.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\bin\Debug\net5.0\ref\Sort Two Numbers.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\bin\Debug\net5.0\Sort Two Numbers.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\obj\Debug\net5.0\Sort Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\obj\Debug\net5.0\Sort Two Numbers.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\obj\Debug\net5.0\Sort Two Numbers.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\obj\Debug\net5.0\Sort Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\obj\Debug\net5.0\Sort Two Numbers.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\obj\Debug\net5.0\ref\Sort Two Numbers.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\obj\Debug\net5.0\Sort Two Numbers.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Sort Two Numbers\obj\Debug\net5.0\Sort Two Numbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\bin\Debug\net5.0\Rating Problems.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\bin\Debug\net5.0\Rating Problems.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\bin\Debug\net5.0\Rating Problems.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\bin\Debug\net5.0\Rating Problems.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\bin\Debug\net5.0\Rating Problems.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\bin\Debug\net5.0\ref\Rating Problems.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\bin\Debug\net5.0\Rating Problems.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\obj\Debug\net5.0\Rating Problems.csproj.AssemblyReference.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\obj\Debug\net5.0\Rating Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\obj\Debug\net5.0\Rating Problems.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\obj\Debug\net5.0\Rating Problems.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\obj\Debug\net5.0\Rating Problems.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\obj\Debug\net5.0\Rating Problems.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\obj\Debug\net5.0\ref\Rating Problems.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\obj\Debug\net5.0\Rating Problems.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Rating Problems\obj\Debug\net5.0\Rating Problems.genruntimeconfig.cache
