@@ -1,0 +1,16 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\bin\Debug\net5.0\ACM.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\bin\Debug\net5.0\ACM.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\bin\Debug\net5.0\ACM.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\bin\Debug\net5.0\ACM.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\bin\Debug\net5.0\ACM.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\bin\Debug\net5.0\ref\ACM.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\bin\Debug\net5.0\ACM.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\obj\Debug\net5.0\ACM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\obj\Debug\net5.0\ACM.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\obj\Debug\net5.0\ACM.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\obj\Debug\net5.0\ACM.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\obj\Debug\net5.0\ACM.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\obj\Debug\net5.0\ref\ACM.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\obj\Debug\net5.0\ACM.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\obj\Debug\net5.0\ACM.genruntimeconfig.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\ACM\obj\Debug\net5.0\ACM.csproj.AssemblyReference.cache

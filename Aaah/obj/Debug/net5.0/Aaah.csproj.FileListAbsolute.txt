@@ -1,0 +1,16 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\bin\Debug\net5.0\Aaah.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\bin\Debug\net5.0\Aaah.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\bin\Debug\net5.0\Aaah.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\bin\Debug\net5.0\Aaah.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\bin\Debug\net5.0\Aaah.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\bin\Debug\net5.0\ref\Aaah.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\bin\Debug\net5.0\Aaah.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\obj\Debug\net5.0\Aaah.csproj.AssemblyReference.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\obj\Debug\net5.0\Aaah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\obj\Debug\net5.0\Aaah.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\obj\Debug\net5.0\Aaah.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\obj\Debug\net5.0\Aaah.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\obj\Debug\net5.0\Aaah.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\obj\Debug\net5.0\ref\Aaah.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\obj\Debug\net5.0\Aaah.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Aaah\obj\Debug\net5.0\Aaah.genruntimeconfig.cache
