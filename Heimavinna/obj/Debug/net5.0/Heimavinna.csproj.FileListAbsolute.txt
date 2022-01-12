@@ -1,0 +1,15 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\bin\Debug\net5.0\Heimavinna.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\bin\Debug\net5.0\Heimavinna.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\bin\Debug\net5.0\Heimavinna.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\bin\Debug\net5.0\Heimavinna.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\bin\Debug\net5.0\Heimavinna.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\bin\Debug\net5.0\ref\Heimavinna.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\bin\Debug\net5.0\Heimavinna.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\obj\Debug\net5.0\Heimavinna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\obj\Debug\net5.0\Heimavinna.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\obj\Debug\net5.0\Heimavinna.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\obj\Debug\net5.0\Heimavinna.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\obj\Debug\net5.0\Heimavinna.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\obj\Debug\net5.0\ref\Heimavinna.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\obj\Debug\net5.0\Heimavinna.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Heimavinna\obj\Debug\net5.0\Heimavinna.genruntimeconfig.cache
