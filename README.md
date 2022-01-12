@@ -8,6 +8,7 @@
 * :white_check_mark: ACM(Air Conditioned Minions)
 * :white_check_mark: Aaah?
 * :white_check_mark: Data Planner
+* :white_check_mark: Jumbo Javelin
 * :white_check_mark: Odd Echo
 * :white_check_mark: Rating Problems
 * :white_check_mark: Sort Two Numbers
