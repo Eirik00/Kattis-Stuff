@@ -1,51 +1,44 @@
 ﻿using System;
 using System.Collections.Generic;
-
-//Må heller lage rom hvor du setter den minste intervalet du kan siden et rom kan ikke ha 1 2 + 2 4 + 4 5 siden 1 2 og 4 5 ikke går
+using System.Linq;
 
 namespace ACM
 {
+
     class Program
     {
+        class Minion
+        {
+            public int MinPrefTemp { get; set; }
+            public int MaxPrefTemp { get; set; }
+        }
         static void Main(string[] args)
         {
 
             int minions = int.Parse(Console.ReadLine());
-            int rooms = minions;
-            List<string> inputs = new List<string>();
+            int rooms = 1;
+            List<Minion> minionTemps = new List<Minion>();
 
             for (int i = 0; i < minions; i++)
             {
-                string inputMinion = Console.ReadLine();
-                int x1 = int.Parse(inputMinion.Split(" ")[0]);
-                int y1 = int.Parse(inputMinion.Split(" ")[1]);
-                bool remove = false;
+                string input = Console.ReadLine();
+                Minion newMinion = new Minion();
+                newMinion.MinPrefTemp = int.Parse(input.Split(" ")[0]);
+                newMinion.MaxPrefTemp = int.Parse(input.Split(" ")[1]);
+                minionTemps.Add(newMinion);
+            }
+            minionTemps.Sort((x,y) => x.MaxPrefTemp.CompareTo(y.MaxPrefTemp));
 
-                for (int x = 0; x < inputs.Count; x++)
-                {
-                    int x2 = int.Parse(inputs[x].Split(" ")[0]);
-                    int y2 = int.Parse(inputs[x].Split(" ")[1]);
-                    for (int j = x1; j<y1; j++)
-                    {
-                        if (j >= x2 && j <= y2)
-                        {
-                            rooms -= 1;
-                            remove = true;
-                            break;
-                        }
-                        else if (j <= x2 && y1 >= x2)
-                        {
-                            rooms -= 1;
-                            remove = true;
-                            break;
-                        }
-                    }
-                }
-                if (remove == false)
-                {
-                    inputs.Add(inputMinion);
-                }
+            int threshold = minionTemps[0].MaxPrefTemp;
 
+
+            for (int i = 1; i< minionTemps.Count(); i++)
+            {
+                if(minionTemps[i].MinPrefTemp > threshold)
+                {
+                    threshold = minionTemps[i].MaxPrefTemp;
+                    rooms++;
+                }
             }
             Console.WriteLine(rooms);
         }
