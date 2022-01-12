@@ -1,0 +1,16 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\bin\Debug\net5.0\Quick Brown Fox.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\bin\Debug\net5.0\Quick Brown Fox.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\bin\Debug\net5.0\Quick Brown Fox.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\bin\Debug\net5.0\Quick Brown Fox.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\bin\Debug\net5.0\Quick Brown Fox.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\bin\Debug\net5.0\ref\Quick Brown Fox.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\bin\Debug\net5.0\Quick Brown Fox.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\obj\Debug\net5.0\Quick Brown Fox.csproj.AssemblyReference.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\obj\Debug\net5.0\Quick Brown Fox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\obj\Debug\net5.0\Quick Brown Fox.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\obj\Debug\net5.0\Quick Brown Fox.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\obj\Debug\net5.0\Quick Brown Fox.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\obj\Debug\net5.0\Quick Brown Fox.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\obj\Debug\net5.0\ref\Quick Brown Fox.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\obj\Debug\net5.0\Quick Brown Fox.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Quick Brown Fox\obj\Debug\net5.0\Quick Brown Fox.genruntimeconfig.cache
