@@ -5,7 +5,7 @@
 * Rank:         30966
 
 ## Solved Problems
-* **:x: ACM(Air Conditioned Minions)**
+* :white_check_mark: ACM(Air Conditioned Minions)
 * :white_check_mark: Aaah?
 * :white_check_mark: Data Planner
 * :white_check_mark: Odd Echo
