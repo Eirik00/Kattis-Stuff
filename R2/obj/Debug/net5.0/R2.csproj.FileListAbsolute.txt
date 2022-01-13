@@ -1,0 +1,16 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\bin\Debug\net5.0\R2.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\bin\Debug\net5.0\R2.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\bin\Debug\net5.0\R2.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\bin\Debug\net5.0\R2.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\bin\Debug\net5.0\R2.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\bin\Debug\net5.0\ref\R2.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\bin\Debug\net5.0\R2.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\obj\Debug\net5.0\R2.csproj.AssemblyReference.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\obj\Debug\net5.0\R2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\obj\Debug\net5.0\R2.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\obj\Debug\net5.0\R2.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\obj\Debug\net5.0\R2.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\obj\Debug\net5.0\R2.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\obj\Debug\net5.0\ref\R2.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\obj\Debug\net5.0\R2.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\R2\obj\Debug\net5.0\R2.genruntimeconfig.cache

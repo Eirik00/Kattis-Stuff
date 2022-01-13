@@ -1,0 +1,15 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\bin\Debug\net5.0\Cold-puter Science.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\bin\Debug\net5.0\Cold-puter Science.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\bin\Debug\net5.0\Cold-puter Science.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\bin\Debug\net5.0\Cold-puter Science.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\bin\Debug\net5.0\Cold-puter Science.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\bin\Debug\net5.0\ref\Cold-puter Science.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\bin\Debug\net5.0\Cold-puter Science.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\obj\Debug\net5.0\Cold-puter Science.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\obj\Debug\net5.0\Cold-puter Science.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\obj\Debug\net5.0\Cold-puter Science.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\obj\Debug\net5.0\Cold-puter Science.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\obj\Debug\net5.0\Cold-puter Science.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\obj\Debug\net5.0\ref\Cold-puter Science.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\obj\Debug\net5.0\Cold-puter Science.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\Cold-puter Science\obj\Debug\net5.0\Cold-puter Science.genruntimeconfig.cache

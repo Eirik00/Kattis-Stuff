@@ -1,0 +1,15 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\bin\Debug\net5.0\quadrant.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\bin\Debug\net5.0\quadrant.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\bin\Debug\net5.0\quadrant.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\bin\Debug\net5.0\quadrant.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\bin\Debug\net5.0\quadrant.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\bin\Debug\net5.0\ref\quadrant.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\bin\Debug\net5.0\quadrant.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\obj\Debug\net5.0\quadrant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\obj\Debug\net5.0\quadrant.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\obj\Debug\net5.0\quadrant.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\obj\Debug\net5.0\quadrant.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\obj\Debug\net5.0\quadrant.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\obj\Debug\net5.0\ref\quadrant.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\obj\Debug\net5.0\quadrant.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\quadrant\obj\Debug\net5.0\quadrant.genruntimeconfig.cache
