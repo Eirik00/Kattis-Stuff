@@ -1,0 +1,16 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\bin\Debug\net5.0\0-1 Squences.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\bin\Debug\net5.0\0-1 Squences.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\bin\Debug\net5.0\0-1 Squences.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\bin\Debug\net5.0\0-1 Squences.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\bin\Debug\net5.0\0-1 Squences.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\bin\Debug\net5.0\ref\0-1 Squences.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\bin\Debug\net5.0\0-1 Squences.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\obj\Debug\net5.0\0-1 Squences.csproj.AssemblyReference.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\obj\Debug\net5.0\0-1 Squences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\obj\Debug\net5.0\0-1 Squences.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\obj\Debug\net5.0\0-1 Squences.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\obj\Debug\net5.0\0-1 Squences.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\obj\Debug\net5.0\0-1 Squences.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\obj\Debug\net5.0\ref\0-1 Squences.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\obj\Debug\net5.0\0-1 Squences.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\0-1 Squences\obj\Debug\net5.0\0-1 Squences.genruntimeconfig.cache

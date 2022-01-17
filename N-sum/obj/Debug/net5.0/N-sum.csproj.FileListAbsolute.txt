@@ -1,0 +1,16 @@
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\obj\Debug\net5.0\N-sum.csproj.AssemblyReference.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\obj\Debug\net5.0\N-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\obj\Debug\net5.0\N-sum.AssemblyInfoInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\obj\Debug\net5.0\N-sum.AssemblyInfo.cs
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\obj\Debug\net5.0\N-sum.csproj.CoreCompileInputs.cache
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\bin\Debug\net5.0\N-sum.exe
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\bin\Debug\net5.0\N-sum.deps.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\bin\Debug\net5.0\N-sum.runtimeconfig.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\bin\Debug\net5.0\N-sum.runtimeconfig.dev.json
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\bin\Debug\net5.0\N-sum.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\bin\Debug\net5.0\ref\N-sum.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\bin\Debug\net5.0\N-sum.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\obj\Debug\net5.0\N-sum.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\obj\Debug\net5.0\ref\N-sum.dll
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\obj\Debug\net5.0\N-sum.pdb
+C:\Users\eirik\Documents\GitHub\Kattis-Stuff\N-sum\obj\Debug\net5.0\N-sum.genruntimeconfig.cache
