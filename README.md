@@ -1,8 +1,8 @@
 # Kattis Problems <img align="right" src="https://open.kattis.com/images/kattis/judge.png?7f7dbf=">
 **This is just my repo for kattis problems that i attempt to complete, they are probably unefficient**
 
-* Current Score: 26.9
-* Rank:         26021
+* Current Score: 32.3
+* Rank:         22893
 
 ## Solved Problems
 * :white_check_mark: ACM(Air Conditioned Minions)
