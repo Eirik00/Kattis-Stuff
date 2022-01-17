@@ -19,6 +19,7 @@
 * :white_check_mark: R2
 * :white_check_mark: Rating Problems
 * :white_check_mark: Sort Two Numbers
+* :white_check_mark: Statistics
 * :white_check_mark: Stop Watch
 * :white_check_mark: Triangle Area
 * :white_check_mark: Two Sum
