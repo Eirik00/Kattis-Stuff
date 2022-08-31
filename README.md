@@ -1,8 +1,8 @@
 # Kattis Problems <img align="right" src="https://open.kattis.com/images/kattis/judge.png?7f7dbf=">
 **This is just my repo for kattis problems that i attempt to complete, they are probably unefficient**
 
-* Current Score: 32.3
-* Rank:         22863
+* Current Score: 40.2
+* Rank:         22205
 
 ## Solved Problems
 
