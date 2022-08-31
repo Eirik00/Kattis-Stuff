@@ -29,5 +29,7 @@
 * :white_check_mark: Two Sum 
 
 ### Python
+* :white_check_mark: Gene Block
+* :white_check_mark: Nasty Hacks
 * :white_check_mark: Pot 
 * :white_check_mark: Quality-Adjusted Life-Year
