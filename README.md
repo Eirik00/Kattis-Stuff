@@ -29,6 +29,8 @@
 * :white_check_mark: Two Sum 
 
 ### Python
+* :white_check_mark: Bela
+* :white_check_mark: Fizz Buzz
 * :white_check_mark: Gene Block
 * :white_check_mark: Nasty Hacks
 * :white_check_mark: Pot 
