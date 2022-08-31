@@ -27,3 +27,7 @@
 * :white_check_mark: Stop Watch 
 * :white_check_mark: Triangle Area 
 * :white_check_mark: Two Sum 
+
+### Python
+* :white_check_mark: Pot 
+* :white_check_mark: Quality-Adjusted Life-Year
