@@ -32,6 +32,8 @@
 * :white_check_mark: Bela
 * :white_check_mark: Fizz Buzz
 * :white_check_mark: Gene Block
+* :white_check_mark: Grass Seed Inc.
+* :white_check_mark: Greetings!
 * :white_check_mark: Nasty Hacks
 * :white_check_mark: Pot 
 * :white_check_mark: Quality-Adjusted Life-Year
