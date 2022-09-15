@@ -1,8 +1,8 @@
 # Kattis Problems <img align="right" src="https://open.kattis.com/images/kattis/judge.png?7f7dbf=">
 **This is just my repo for kattis problems that i attempt to complete**
 
-* Current Score: 40.2
-* Rank:         22205
+* Current Score: 53.6
+* Rank:         17444
 
 ## Solved Problems
 
@@ -30,7 +30,10 @@
 
 ### Python
 * :white_check_mark: Bela
+* :white_check_mark: Finding An A
 * :white_check_mark: Fizz Buzz
+* :white_check_mark: FIY
+* :white_check_mark: GCVWR
 * :white_check_mark: Gene Block
 * :white_check_mark: Grass Seed Inc.
 * :white_check_mark: Greetings!
